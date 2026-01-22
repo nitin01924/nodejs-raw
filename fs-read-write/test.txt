@@ -1,0 +1,4 @@
+This is a blocking operation in the Node.js
+because this is a writefiesync operation.
+So, whenever it runs it will delay the program.
+ and other things will run after it's completion.

@@ -1,0 +1,3 @@
+This is a non blocking operation in Node.js
+So, it will not affect any other program.
+ and all other work will be done first then that.
