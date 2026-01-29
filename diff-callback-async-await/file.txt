@@ -1,0 +1,1 @@
+this is the diffrence between the normal readfile and async await.
